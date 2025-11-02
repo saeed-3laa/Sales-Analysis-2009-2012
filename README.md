@@ -28,7 +28,6 @@ The dashboard is interactive, allowing users to filter by Year, Month, Customer 
 - **Data Prep**: Data was cleaned and loaded into Power BI for DAX measures and relationships.
 
 ## Dashboard Screenshots
-Here are the key views from the Power BI dashboard. Replace the placeholders below with actual image paths (e.g., `images/screenshot1.png`) when uploading to GitHub.
 
 ### 1. Overview & Time Series (Years and Months)
 ![Overview Dashboard - KPIs, Sales by Year/Month, Orders & Profit by Year, Total Discount by Year](images/screenshot1.png)
@@ -90,3 +89,4 @@ Here are the key views from the Power BI dashboard. Replace the placeholders bel
    - Use slicers for Year, Month, Segment, Region, Category.
    - Refresh data for updates.
 5. **Publish (Optional)**: Publish to Power BI Service for sharing (requires account).
+
